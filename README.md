@@ -1,5 +1,6 @@
 # Codecademy-Python-Project
 Python Functions: Medical Insurance Project
+
 #Sample Question
 #1. First, take a look at the code in script.py.
 

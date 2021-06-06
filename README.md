@@ -1,8 +1,8 @@
 # Codecademy-Python-Project
 Python Functions: Medical Insurance Project
 
-#Sample Question
-#1. First, take a look at the code in script.py.
+# Sample Question
+# 1. First, take a look at the code in script.py.
 
 In this code, we estimate the medical insurance costs for two individuals, Maria and Omar, based on five variables:
 

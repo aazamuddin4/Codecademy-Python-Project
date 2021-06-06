@@ -1,6 +1,6 @@
-## Codecademy-Python-Project
-# Python Functions: Medical Insurance Project
-I'm Using Visual Studio Code as my text editor
+# Codecademy-Python-Project
+## Python Functions: Medical Insurance Project
+## I'm Using Visual Studio Code as my text editor
 
 # Sample Question
 # 1. First, take a look at the code in script.py.

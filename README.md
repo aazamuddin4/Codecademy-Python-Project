@@ -1,5 +1,5 @@
-# Codecademy-Python-Project
-Python Functions: Medical Insurance Project
+## Codecademy-Python-Project
+# Python Functions: Medical Insurance Project
 I'm Using Visual Studio Code as my text editor
 
 # Sample Question
